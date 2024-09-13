@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Hola, me llamo Fernando Lopez Salvador<img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
@@ -11,19 +11,16 @@
 </p>
 
 <p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
+  <b>Apasionado por el desarrollo y en busca de nuevo conocimiento</b>
 </p>
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
-
+- Me encanta aprender nuevas tecnologías y aplicar soluciones innovadoras para mejorar la experiencia del usuario y la 	 
+  eficiencia de las aplicaciones.
+- Pasante de la univerisad [Universidad de la Sierra Sur]([https://hcmuni.fpt.edu.vn](https://www.unsis.edu.mx/)).
+- conocimientos y habilidades en el desarrollo de aplicaciones  tanto en frontend como en backend.
 <h2>Tech stack</h2>
 
 <p align="center">
