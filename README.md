@@ -137,24 +137,24 @@
 <!-- My Activity -->
 <h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Desarrollos personales o palicaciones que he realizado</b></summary>
   <br>
   <p align="center">
     <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" height="192px"/>
     <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
     <br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <b>Note:</b> Top languages, lenguajes con los cuales he trabajado en la carrera, o personalmente.
   </p>
 </details>
 <details>
-  <summary><b>⚡ GitHub Contribution</b></summary>
+  <summary><b>⚡ GitHub Contribuciónes en otras areas</b></summary>
   <br>
   <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
   <br>
 </details>
 <details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
+  <summary><b>📊 Estadisticas de los lenguajes que mas he utilizado, o principales en desarrollo</b></summary>
   <br>
   
 <!--START_SECTION:waka-->
