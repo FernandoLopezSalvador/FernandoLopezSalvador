@@ -21,7 +21,7 @@
   eficiencia de las aplicaciones.
 - Pasante de la univerisad [Universidad de la Sierra Sur]([https://hcmuni.fpt.edu.vn](https://www.unsis.edu.mx/)).
 - conocimientos y habilidades en el desarrollo de aplicaciones  tanto en frontend como en backend.
-<h2>Tech stack</h2>
+<h2>Tecnologias</h2>
 
 <p align="center">
   <b>Languages</b>
