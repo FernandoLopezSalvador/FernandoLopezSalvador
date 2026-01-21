@@ -14,7 +14,7 @@
   <b>Apasionado por el desarrollo y en busca de nuevo conocimiento</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
 <br>
 
 - Me encanta aprender nuevas tecnologías y aplicar soluciones innovadoras para mejorar la experiencia del usuario y la 	 
