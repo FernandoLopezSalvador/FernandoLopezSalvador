@@ -14,7 +14,7 @@
   <b>Apasionado por el desarrollo y en busca de nuevo conocimiento</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
+<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="250">
 <br>
 
 - Me encanta aprender nuevas tecnologías y aplicar soluciones innovadoras para mejorar la experiencia del usuario y la 	 
@@ -38,9 +38,6 @@
   </a>
   <a href="https://www.java.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
   </a>
 </p>
 
