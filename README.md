@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
+ 
   <br>
   Hola, me llamo Fernando Lopez Salvador<img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
