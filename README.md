@@ -222,6 +222,4 @@ NetBeans                 1 hr 6 mins         █░░░░░░░░░░�
 
 ---
 
-Credits: [oHTGo](https://github.com/oHTGo)
-
-Last Edited on: 29/05/2025
+Last Edited on: 10/02/2026
